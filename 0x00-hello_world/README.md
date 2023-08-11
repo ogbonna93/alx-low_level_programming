@@ -1,0 +1,5 @@
+Preprocessing
+Compilation
+Assembly
+Linking
+Intel
